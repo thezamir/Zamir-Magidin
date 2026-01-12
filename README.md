@@ -83,4 +83,3 @@ More projects will be added incrementally as complete, real-world case studies.
 If you’re exploring an AI or data-driven solution and want a **clear, business-aware technical assessment**:
 
 - GitHub: https://github.com/thezamir  
-- LinkedIn: (add link here)
